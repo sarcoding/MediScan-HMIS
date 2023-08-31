@@ -34,7 +34,7 @@ MediScan-HMIS is a revolutionary solution aimed at simplifying data collection a
    git clone https://github.com/your-username/MediScan-HMIS.git
 2. Install the required dependencies:
    + For tesseract: `https://digi.bib.uni-mannheim.de/tesseract/tesseract-ocr-w64-setup-5.3.1.20230401.exe`
-   + After installing tesseract-ocr `pip install -r requirements.txt`.
+   + After installing tesseract-ocr `pip install -r requirements`.
 3. Run `main.py` to start the application.
 
 
